@@ -1,4 +1,4 @@
-# CryptDiary 🔐
+# CryptDiary
 
 A secure, encrypted personal diary application with multi-user support and digital signatures.
 
